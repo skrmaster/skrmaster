@@ -4,7 +4,7 @@
 
 #### To be full stack engineer
 - font-end
-    > 1.Design
-    > 2.Code level
+    > - 1.Design
+    > - 2.Code level
 - back-end
 - Operation and maintenance
