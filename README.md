@@ -7,4 +7,6 @@
     > - 1.Design
     > - 2.Code level
 - back-end...
+    > - 1.\*\*Structure, 
+    > - 2.Algorithm
 - Operation and maintenance...
